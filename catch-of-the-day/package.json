@@ -29,6 +29,7 @@
     "styles": "stylus -u autoprefixer-stylus ./src/css/style.styl -o ./src/css/style.css",
     "styles:watch": "stylus -u autoprefixer-stylus -w ./src/css/style.styl -o ./src/css/style.css"
   },
+  "homepage": "http://sveppalicious.github.io/FishStore",
   "eslintConfig": {
     "extends": "./node_modules/react-scripts/.eslintrc"
   }
